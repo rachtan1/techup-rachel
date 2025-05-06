@@ -1,5 +1,12 @@
+/*
 h1 {color:darkslateblue;
 background-color:azure;
 text-align:center;
-border:10px black solid;}
-
+border:5px black solid;
+margin-bottom:50px;
+padding-top: 10px;
+padding-bottom: 10px;}
+*/
+h1 {color:coral;}
+.title {background-color: skyblue;}
+#important {color:crimson;}
